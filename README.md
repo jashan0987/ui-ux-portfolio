@@ -2,8 +2,11 @@
 
 This repository showcases my UI/UX design work and creative projects.
 
-🔗 **View Full Portfolio on Behance:**
+⚠️ **Note:** Full high-quality design screens are not uploaded here due to large file sizes.
+
+🔗 **View Complete Portfolio on Behance:**
 https://www.behance.net/gallery/246010709/UIUX-design-portfolio?platform=direct
+
 
 ---
 
@@ -17,7 +20,9 @@ This portfolio includes my UI/UX design projects focusing on:
 ---
 
 ## 🖼 Project Preview
-(Add your images here)
+Below is a preview of the design:
+
+![Design Preview](Screenshot%202026-03-19%20001619.png)
 
 ---
 
@@ -28,6 +33,14 @@ This portfolio includes my UI/UX design projects focusing on:
 
 ---
 
+## 🎯 Key Highlights
+- Clean and modern UI design
+- User-centered approach
+- Consistent color and typography
+- Structured layout design
+
+---
+
 ## 👩‍💻 Author
-Jashanpreet Kaur  
+**Jashanpreet Kaur**  
 B.Tech CSE Student | UI/UX Designer
